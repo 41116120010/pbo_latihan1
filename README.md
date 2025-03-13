@@ -1,1 +1,1 @@
-# pbo_latihan1
+Program Penghitung Nilai Akhir, dan Kelulusan berbasis Java.
